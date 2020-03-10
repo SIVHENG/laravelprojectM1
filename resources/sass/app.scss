@@ -1,0 +1,22 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+//drak
+$body-bg: #000;
+$body-color: rgb(236, 55, 146);
+$jumbotron-bg:#070707;
+$theme-colors: (
+  "custom-color": #900,
+  "primary": #7888,
+);
+
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+//font
+@import "~@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "~@fortawesome/fontawesome-free/scss/solid.scss";
+@import "~@fortawesome/fontawesome-free/scss/brands.scss";
